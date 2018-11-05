@@ -1,0 +1,20 @@
+Initial	Converted	Presence
+nompC	not found	no
+Trpm	not found	no
+Pkd2	ENSG00000118762	yes
+Para	not found	no
+DSC1	ENSG00000134765	yes
+Shab	not found	no
+Shal	not found	no
+Shaker	not found	no
+Shaw	not found	no
+dSK	not found	no
+CG15899	not found	no
+DmCa1A	not found	no
+TrpA1	ENSG00000104321	no
+CG10844	not found	no
+CG1063	not found	no
+CG31547	not found	no
+subdued	not found	no
+CG6938	not found	no
+Ih	not found	no
